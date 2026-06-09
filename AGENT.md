@@ -62,6 +62,8 @@
 
 2026-06-09 更新：本机未安装 Homebrew 和 `gh`。已从 GitHub CLI 官方 release 安装 macOS arm64 版 `gh` 2.93.0 到 `/Users/hippo/.local/bin/gh`，并在 `/Users/hippo/.zshrc` 中加入 `~/.local/bin` 到 PATH。新 zsh 登录环境中已验证 `gh --version` 可用，且 `gh auth status` 显示已登录 GitHub 账号 `Hippo1013`。
 
+2026-06-09 更新：项目已初始化为 git 仓库，并创建 GitHub 公开仓库 `operations-research-final-project`（中文含义：运筹学大作业）。远程地址为 `https://github.com/Hippo1013/operations-research-final-project`。已新增 `.gitignore` 和 `README.md`；公开仓库中保留文档、脚本、结果、报告源码和最终 PDF，排除 `.omx/`、`.DS_Store`、Python 缓存、LaTeX 中间文件以及旧 `phase1_*` 生成物。首次提交为 `d845ae2`。
+
 ## Source Files
 
 主要题目与任务文件：
