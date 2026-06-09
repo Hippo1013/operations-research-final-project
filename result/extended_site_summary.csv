@@ -1,0 +1,26 @@
+scenario,scenario_label,site,site_sensitivity,rocket_launches,max_pressure,launch_share
+balanced,Balanced,Alaska,3.5,138805,7891.38057203185,0.27505256128517047
+balanced,Balanced,California,4.0,17647,2939.9458604108336,0.03496885954396026
+balanced,Balanced,Florida,4.0,17647,2939.9458604108336,0.03496885954396026
+balanced,Balanced,French Guiana,3.5,138805,7891.380556773061,0.27505256128517047
+balanced,Balanced,Mahia,3.5,138804,7891.38057203185,0.27505057970985775
+balanced,Balanced,Satish Dhawan,4.0,17647,2939.9458604108336,0.03496885954396026
+balanced,Balanced,Taiyuan,4.0,17647,2939.9458604108336,0.03496885954396026
+balanced,Balanced,Virginia,4.0,17647,2939.9458604108336,0.03496885954396026
+cost_schedule_priority,Cost + Schedule Priority,Alaska,3.5,120556,11329.702482962595,0.2316469073650635
+cost_schedule_priority,Cost + Schedule Priority,California,4.0,31168,5934.554395235924,0.05988893799358223
+cost_schedule_priority,Cost + Schedule Priority,Florida,4.0,31168,5934.554395235924,0.05988893799358223
+cost_schedule_priority,Cost + Schedule Priority,French Guiana,3.5,120554,11329.702482962588,0.2316430643890629
+cost_schedule_priority,Cost + Schedule Priority,Kazakhstan,4.5,2925,1627.147570185692,0.005620352400899256
+cost_schedule_priority,Cost + Schedule Priority,Mahia,3.5,120555,11329.702482962595,0.2316449858770632
+cost_schedule_priority,Cost + Schedule Priority,Satish Dhawan,4.0,31168,5934.554395235924,0.05988893799358223
+cost_schedule_priority,Cost + Schedule Priority,Taiyuan,4.0,31168,5934.554395235924,0.05988893799358223
+cost_schedule_priority,Cost + Schedule Priority,Virginia,4.0,31168,5934.554395235924,0.05988893799358223
+environment_priority,Environment Priority,Alaska,3.5,114637,5670.842261545179,0.31169823428008986
+environment_priority,Environment Priority,California,4.0,4774,1276.4687703522209,0.0129805156315426
+environment_priority,Environment Priority,Florida,4.0,4774,1276.4687703522209,0.0129805156315426
+environment_priority,Environment Priority,French Guiana,3.5,114637,5670.842261545179,0.31169823428008986
+environment_priority,Environment Priority,Mahia,3.5,114638,5670.842261545179,0.31170095328210734
+environment_priority,Environment Priority,Satish Dhawan,4.0,4774,1276.4687703522209,0.0129805156315426
+environment_priority,Environment Priority,Taiyuan,4.0,4774,1276.4687703522209,0.0129805156315426
+environment_priority,Environment Priority,Virginia,4.0,4774,1276.4687703522209,0.0129805156315426

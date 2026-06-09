@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Agent/runtime state
+.omx/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Legacy generated files kept locally but no longer used by the report
+report/figures/phase1_*.png
+result/phase1_*

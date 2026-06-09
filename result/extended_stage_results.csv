@@ -1,0 +1,10 @@
+scenario,scenario_label,T,stage,stage_year_count,stage_start_year,stage_end_year,stage_demand_mt,stage_elevator_mt,stage_rocket_delivery_mt,stage_rocket_launches
+cost_schedule_priority,Cost + Schedule Priority,75,1,15,1,15,10.0,7.2493849999999975,2.750615,22454
+cost_schedule_priority,Cost + Schedule Priority,75,2,37,16,52,60.0,17.88205,42.11795,343820
+cost_schedule_priority,Cost + Schedule Priority,75,3,23,53,75,30.0,11.115890000000002,18.88411,154156
+environment_priority,Environment Priority,116,1,23,1,23,10.0,10.0,0.0,0
+environment_priority,Environment Priority,116,2,58,24,81,60.0,28.031297500000004,31.9687025,260969
+environment_priority,Environment Priority,116,3,35,82,116,30.0,16.9154075,13.0845925,106813
+balanced,Balanced,79,1,15,1,15,10.0,7.2493849999999975,2.750615,22454
+balanced,Balanced,79,2,40,16,55,60.0,19.331960000000002,40.66804,331984
+balanced,Balanced,79,3,24,56,79,30.0,11.599152499999999,18.4008475,150211

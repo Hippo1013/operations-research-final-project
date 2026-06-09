@@ -1,0 +1,1368 @@
+scenario,scenario_label,T,site,year,rocket_launches,pressure,site_sensitivity,site_sensitivity_norm
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,9,216,216.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,10,503,611.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,11,788,1093.5,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,12,1072,1618.75,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,13,1354,2163.375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,14,1636,2717.6875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,15,1916,3274.84375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,16,0,1637.421875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,17,0,818.7109375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,18,0,409.35546875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,19,0,204.677734375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,20,0,102.3388671875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,21,0,51.16943359375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,22,0,25.584716796875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,23,0,12.7923583984375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,24,0,6.39617919921875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,25,0,3.198089599609375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,26,0,1.5990447998046875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,27,0,0.7995223999023438,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,28,0,0.3997611999511719,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,29,188,188.1998805999756,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,30,449,543.0999402999878,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,31,710,981.5499701499939,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,32,968,1458.774985074997,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,33,1226,1955.3874925374985,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,34,1482,2459.6937462687492,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,35,1738,2967.8468731343746,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,36,1992,3475.9234365671873,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,37,2245,3982.9617182835937,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,38,2496,4487.480859141797,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,39,2747,4990.740429570898,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,40,2996,5491.370214785449,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,41,3245,5990.685107392725,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,42,3492,6487.342553696362,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,43,3738,6981.671276848181,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,44,3983,7473.835638424091,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,45,4227,7963.917819212045,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,46,4469,8450.958909606023,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,47,4711,8936.479454803011,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,48,4951,9419.239727401506,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,49,5190,9899.619863700753,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,50,5429,10378.809931850377,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,51,5666,10855.404965925189,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,52,5902,11329.702482962595,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,53,0,5664.851241481298,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,54,0,2832.425620740649,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,55,0,1416.2128103703244,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,56,0,708.1064051851622,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,57,0,354.0532025925811,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,58,143,320.02660129629055,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,59,438,598.0133006481453,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,60,699,998.0066503240727,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,61,942,1441.0033251620364,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,62,1176,1896.501662581018,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,63,1404,2352.2508312905093,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,64,1630,2806.1254156452546,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,65,1853,3256.062707822627,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,66,2075,3703.0313539113135,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,67,2295,4146.515676955657,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,68,2515,4588.257838477828,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,69,2733,5027.128919238914,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,70,2951,5464.564459619457,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,71,3167,5899.282229809729,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,72,3382,6331.6411149048645,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,73,3596,6761.820557452433,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,74,3810,7190.910278726216,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Alaska,75,4022,7617.455139363108,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,California,38,84,84.0,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,39,301,345.24,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,40,518,699.8263999999999,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,41,733,1101.5752373333332,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,42,947,1527.1629583288886,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,43,1161,1965.3058247198812,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,44,1373,2408.061067685804,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,45,1585,2853.245495647857,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,46,1795,3297.709294374538,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,47,2005,3741.793561703923,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,48,2213,4183.677942497399,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,49,2421,4624.403716381963,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,50,2628,5063.5192906278335,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,51,2833,5499.786826397325,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,52,3038,5934.554395235924,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,53,0,3125.53198149092,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,54,0,1646.1135102518842,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,55,0,866.9531153993256,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,56,0,456.5953074436448,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,57,0,240.47352858698625,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,58,0,126.64939172247941,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,59,0,66.70201297383915,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,60,0,35.129726832888615,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,61,0,18.501656131988003,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,62,0,9.744205562847014,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,63,0,5.131948263099427,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,64,0,2.7028260852323647,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,65,0,1.4234884048890453,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,66,0,0.7497038932415637,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,67,83,83.39484405044055,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,68,274,317.92128453323204,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,69,463,630.4385431875022,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,70,652,984.0309660787511,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,71,840,1358.2563088014756,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,72,1027,1742.3483226354438,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,73,1213,2130.636783254667,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,74,1398,2520.1353725141244,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,California,75,1583,2910.271296190772,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,38,84,84.0,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,39,301,345.24,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,40,518,699.8263999999999,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,41,733,1101.5752373333332,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,42,947,1527.1629583288886,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,43,1161,1965.3058247198812,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,44,1373,2408.061067685804,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,45,1585,2853.245495647857,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,46,1795,3297.709294374538,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,47,2005,3741.793561703923,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,48,2213,4183.677942497399,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,49,2421,4624.403716381963,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,50,2628,5063.5192906278335,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,51,2833,5499.786826397325,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,52,3038,5934.554395235924,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,53,0,3125.53198149092,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,54,0,1646.1135102518842,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,55,0,866.9531153993256,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,56,0,456.5953074436448,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,57,0,240.47352858698625,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,58,0,126.64939172247941,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,59,0,66.70201297383915,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,60,0,35.129726832888615,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,61,0,18.501656131988003,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,62,0,9.744205562847014,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,63,0,5.131948263099427,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,64,0,2.7028260852323647,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,65,0,1.4234884048890453,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,66,0,0.7497038932415637,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,67,83,83.39484405044055,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,68,274,317.92128453323204,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,69,463,630.4385431875022,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,70,652,984.0309660787511,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,71,840,1358.2563088014756,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,72,1027,1742.3483226354438,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,73,1213,2130.636783254667,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,74,1398,2520.1353725141244,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Florida,75,1583,2910.271296190772,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,38,84,84.0,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,39,301,345.24,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,40,518,699.8263999999999,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,41,733,1101.5752373333332,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,42,947,1527.1629583288886,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,43,1161,1965.3058247198812,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,44,1373,2408.061067685804,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,45,1585,2853.245495647857,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,46,1795,3297.709294374538,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,47,2005,3741.793561703923,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,48,2213,4183.677942497399,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,49,2421,4624.403716381963,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,50,2628,5063.5192906278335,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,51,2833,5499.786826397325,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,52,3038,5934.554395235924,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,53,0,3125.53198149092,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,54,0,1646.1135102518842,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,55,0,866.9531153993256,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,56,0,456.5953074436448,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,57,0,240.47352858698625,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,58,0,126.64939172247941,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,59,0,66.70201297383915,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,60,0,35.129726832888615,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,61,0,18.501656131988003,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,62,0,9.744205562847014,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,63,0,5.131948263099427,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,64,0,2.7028260852323647,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,65,0,1.4234884048890453,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,66,0,0.7497038932415637,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,67,83,83.39484405044055,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,68,274,317.92128453323204,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,69,463,630.4385431875022,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,70,652,984.0309660787511,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,71,840,1358.2563088014756,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,72,1027,1742.3483226354438,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,73,1213,2130.636783254667,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,74,1398,2520.1353725141244,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Virginia,75,1583,2910.271296190772,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,47,32,32.0,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,48,216,233.70666666666668,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,49,398,527.3176888888889,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,50,579,870.7824545185185,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,51,760,1241.8329581669136,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,52,940,1627.147570185692,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,53,0,900.354988836083,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,54,0,498.1964271559659,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,55,0,275.6686896929678,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,56,0,152.53667496344218,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,57,0,84.40362681310468,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,58,0,46.70334016991792,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,59,0,25.84251489402125,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,60,0,14.299524908025091,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,61,0,7.912403782440551,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,62,0,4.378196759617105,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,63,0,2.4226022069881314,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,64,0,1.3405065545334327,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,65,0,0.7417469601751661,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,66,0,0.4104333179635919,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,67,0,0.2271064359398542,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,68,0,0.12566556122005265,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,69,0,0.0695349438750958,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,70,0,0.03847600227755301,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,71,0,0.021290054593579334,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,72,0,0.011780496875113898,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,73,0,0.00651854160422969,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,74,0,0.0036069263543404284,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,Kazakhstan,75,0,0.001995832582735037,4.5,1.125
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,9,216,216.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,10,503,611.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,11,788,1093.5,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,12,1072,1618.75,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,13,1354,2163.375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,14,1636,2717.6875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,15,1915,3273.84375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,16,0,1636.921875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,17,0,818.4609375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,18,0,409.23046875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,19,0,204.615234375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,20,0,102.3076171875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,21,0,51.15380859375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,22,0,25.576904296875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,23,0,12.7884521484375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,24,0,6.39422607421875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,25,0,3.197113037109375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,26,0,1.5985565185546875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,27,0,0.7992782592773438,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,28,0,0.3996391296386719,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,29,188,188.19981956481934,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,30,449,543.0999097824097,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,31,710,981.5499548912048,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,32,968,1458.7749774456024,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,33,1226,1955.3874887228012,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,34,1482,2459.6937443614006,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,35,1738,2967.8468721807003,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,36,1992,3475.92343609035,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,37,2245,3982.961718045175,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,38,2496,4487.4808590225875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,39,2747,4990.740429511294,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,40,2996,5491.370214755647,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,41,3245,5990.685107377823,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,42,3492,6487.342553688912,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,43,3738,6981.671276844456,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,44,3983,7473.835638422228,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,45,4227,7963.917819211114,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,46,4469,8450.958909605557,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,47,4711,8936.479454802778,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,48,4951,9419.23972740139,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,49,5190,9899.619863700695,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,50,5429,10378.809931850348,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,51,5666,10855.404965925174,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,52,5902,11329.702482962588,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,53,0,5664.851241481294,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,54,0,2832.425620740647,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,55,0,1416.2128103703235,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,56,0,708.1064051851617,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,57,0,354.0532025925809,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,58,143,320.02660129629044,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,59,438,598.0133006481452,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,60,699,998.0066503240726,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,61,942,1441.0033251620362,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,62,1176,1896.501662581018,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,63,1404,2352.2508312905093,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,64,1630,2806.1254156452546,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,65,1853,3256.062707822627,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,66,2075,3703.0313539113135,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,67,2295,4146.515676955657,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,68,2515,4588.257838477828,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,69,2733,5027.128919238914,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,70,2950,5463.564459619457,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,71,3167,5898.782229809729,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,72,3382,6331.3911149048645,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,73,3596,6761.695557452433,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,74,3810,7190.847778726216,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,French Guiana,75,4022,7617.423889363108,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,38,84,84.0,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,39,301,345.24,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,40,518,699.8263999999999,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,41,733,1101.5752373333332,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,42,947,1527.1629583288886,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,43,1161,1965.3058247198812,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,44,1373,2408.061067685804,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,45,1585,2853.245495647857,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,46,1795,3297.709294374538,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,47,2005,3741.793561703923,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,48,2213,4183.677942497399,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,49,2421,4624.403716381963,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,50,2628,5063.5192906278335,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,51,2833,5499.786826397325,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,52,3038,5934.554395235924,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,53,0,3125.53198149092,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,54,0,1646.1135102518842,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,55,0,866.9531153993256,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,56,0,456.5953074436448,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,57,0,240.47352858698625,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,58,0,126.64939172247941,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,59,0,66.70201297383915,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,60,0,35.129726832888615,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,61,0,18.501656131988003,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,62,0,9.744205562847014,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,63,0,5.131948263099427,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,64,0,2.7028260852323647,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,65,0,1.4234884048890453,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,66,0,0.7497038932415637,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,67,83,83.39484405044055,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,68,274,317.92128453323204,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,69,463,630.4385431875022,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,70,652,984.0309660787511,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,71,840,1358.2563088014756,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,72,1027,1742.3483226354438,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,73,1213,2130.636783254667,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,74,1398,2520.1353725141244,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Satish Dhawan,75,1583,2910.271296190772,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,38,84,84.0,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,39,301,345.24,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,40,518,699.8263999999999,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,41,733,1101.5752373333332,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,42,947,1527.1629583288886,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,43,1161,1965.3058247198812,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,44,1373,2408.061067685804,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,45,1585,2853.245495647857,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,46,1795,3297.709294374538,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,47,2005,3741.793561703923,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,48,2213,4183.677942497399,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,49,2421,4624.403716381963,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,50,2628,5063.5192906278335,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,51,2833,5499.786826397325,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,52,3038,5934.554395235924,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,53,0,3125.53198149092,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,54,0,1646.1135102518842,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,55,0,866.9531153993256,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,56,0,456.5953074436448,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,57,0,240.47352858698625,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,58,0,126.64939172247941,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,59,0,66.70201297383915,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,60,0,35.129726832888615,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,61,0,18.501656131988003,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,62,0,9.744205562847014,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,63,0,5.131948263099427,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,64,0,2.7028260852323647,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,65,0,1.4234884048890453,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,66,0,0.7497038932415637,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,67,83,83.39484405044055,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,68,274,317.92128453323204,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,69,463,630.4385431875022,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,70,652,984.0309660787511,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,71,840,1358.2563088014756,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,72,1027,1742.3483226354438,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,73,1213,2130.636783254667,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,74,1398,2520.1353725141244,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Taiyuan,75,1583,2910.271296190772,4.0,1.0
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,9,216,216.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,10,503,611.0,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,11,788,1093.5,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,12,1072,1618.75,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,13,1354,2163.375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,14,1636,2717.6875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,15,1916,3274.84375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,16,0,1637.421875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,17,0,818.7109375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,18,0,409.35546875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,19,0,204.677734375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,20,0,102.3388671875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,21,0,51.16943359375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,22,0,25.584716796875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,23,0,12.7923583984375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,24,0,6.39617919921875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,25,0,3.198089599609375,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,26,0,1.5990447998046875,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,27,0,0.7995223999023438,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,28,0,0.3997611999511719,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,29,188,188.1998805999756,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,30,449,543.0999402999878,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,31,710,981.5499701499939,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,32,968,1458.774985074997,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,33,1226,1955.3874925374985,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,34,1482,2459.6937462687492,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,35,1738,2967.8468731343746,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,36,1992,3475.9234365671873,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,37,2245,3982.9617182835937,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,38,2496,4487.480859141797,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,39,2747,4990.740429570898,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,40,2996,5491.370214785449,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,41,3245,5990.685107392725,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,42,3492,6487.342553696362,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,43,3738,6981.671276848181,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,44,3983,7473.835638424091,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,45,4227,7963.917819212045,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,46,4469,8450.958909606023,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,47,4711,8936.479454803011,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,48,4951,9419.239727401506,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,49,5190,9899.619863700753,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,50,5429,10378.809931850377,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,51,5666,10855.404965925189,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,52,5902,11329.702482962595,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,53,0,5664.851241481298,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,54,0,2832.425620740649,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,55,0,1416.2128103703244,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,56,0,708.1064051851622,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,57,0,354.0532025925811,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,58,143,320.02660129629055,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,59,438,598.0133006481453,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,60,699,998.0066503240727,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,61,942,1441.0033251620364,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,62,1176,1896.501662581018,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,63,1404,2352.2508312905093,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,64,1630,2806.1254156452546,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,65,1853,3256.062707822627,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,66,2075,3703.0313539113135,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,67,2295,4146.515676955657,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,68,2515,4588.257838477828,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,69,2733,5027.128919238914,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,70,2950,5463.564459619457,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,71,3167,5898.782229809729,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,72,3382,6331.3911149048645,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,73,3596,6761.695557452433,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,74,3810,7190.847778726216,3.5,0.875
+cost_schedule_priority,Cost + Schedule Priority,75,Mahia,75,4022,7617.423889363108,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,29,16,16.0,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,30,76,84.0,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,31,136,178.0,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,32,195,284.0,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,33,255,397.0,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,34,314,512.5,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,35,373,629.25,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,36,432,746.625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,37,490,863.3125,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,38,548,979.65625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,39,607,1096.828125,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,40,665,1213.4140625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,41,722,1328.70703125,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,42,780,1444.353515625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,43,838,1560.1767578125,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,44,895,1675.08837890625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,45,952,1789.544189453125,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,46,1009,1903.7720947265625,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,47,1065,2016.8860473632812,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,48,1122,2130.4430236816406,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,49,1178,2243.2215118408203,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,50,1234,2355.61075592041,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,51,1290,2467.805377960205,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,52,1346,2579.9026889801025,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,53,1402,2691.9513444900513,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,54,1457,2802.9756722450256,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,55,1512,2913.487836122513,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,56,1567,3023.7439180612564,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,57,1622,3133.871959030628,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,58,1677,3243.935979515314,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,59,1731,3352.967989757657,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,60,1786,3462.4839948788285,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,61,1840,3571.2419974394143,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,62,1894,3679.620998719707,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,63,1948,3787.8104993598536,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,64,2001,3894.905249679927,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,65,2055,4002.4526248399634,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,66,2108,4109.226312419982,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,67,2161,4215.613156209991,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,68,2214,4321.806578104995,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,69,2267,4427.903289052498,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,70,2319,4532.951644526249,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,71,2372,4638.475822263124,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,72,2424,4743.237911131562,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,73,2476,4847.618955565781,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,74,2528,4951.80947778289,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,75,2580,5055.904738891445,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,76,2631,5158.952369445722,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,77,2682,5261.476184722861,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,78,2734,5364.738092361431,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,79,2785,5467.3690461807155,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,80,2836,5569.684523090358,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,81,2886,5670.842261545179,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,82,0,2835.4211307725895,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,83,0,1417.7105653862948,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,84,0,708.8552826931474,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,85,114,468.4276413465737,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,86,297,531.2138206732868,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,87,413,678.6069103366434,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,88,496,835.3034551683218,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,89,562,979.6517275841609,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,90,620,1109.8258637920803,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,91,673,1227.9129318960402,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,92,724,1337.9564659480202,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,93,774,1442.97823297401,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,94,823,1544.489116487005,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,95,872,1644.2445582435025,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,96,920,1742.1222791217513,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,97,969,1840.0611395608757,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,98,1017,1937.0305697804379,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,99,1064,2032.515284890219,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,100,1112,2128.2576424451095,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,101,1160,2224.1288212225545,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,102,1207,2319.0644106112773,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,103,1254,2413.532205305639,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,104,1301,2507.7661026528194,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,105,1348,2601.8830513264097,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,106,1395,2695.9415256632046,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,107,1442,2789.9707628316023,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,108,1488,2882.9853814158014,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,109,1534,2975.4926907079007,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,110,1581,3068.7463453539503,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,111,1627,3161.373172676975,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,112,1672,3252.6865863384874,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,113,1718,3344.3432931692437,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,114,1764,3436.171646584622,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,115,1809,3527.085823292311,3.5,0.875
+environment_priority,Environment Priority,116,Alaska,116,1854,3617.5429116461555,3.5,0.875
+environment_priority,Environment Priority,116,California,68,20,20.0,4.0,1.0
+environment_priority,Environment Priority,116,California,69,70,80.53333333333333,4.0,1.0
+environment_priority,Environment Priority,116,California,70,120,162.4142222222222,4.0,1.0
+environment_priority,Environment Priority,116,California,71,170,255.53815703703702,4.0,1.0
+environment_priority,Environment Priority,116,California,72,219,353.5834293728395,4.0,1.0
+environment_priority,Environment Priority,116,California,73,268,454.2206061363621,4.0,1.0
+environment_priority,Environment Priority,116,California,74,318,557.2228525651507,4.0,1.0
+environment_priority,Environment Priority,116,California,75,367,660.4707023509793,4.0,1.0
+environment_priority,Environment Priority,116,California,76,416,763.8479032381824,4.0,1.0
+environment_priority,Environment Priority,116,California,77,464,866.293229038776,4.0,1.0
+environment_priority,Environment Priority,116,California,78,513,969.2477672937553,4.0,1.0
+environment_priority,Environment Priority,116,California,79,561,1071.470490774711,4.0,1.0
+environment_priority,Environment Priority,116,California,80,610,1174.3077918080144,4.0,1.0
+environment_priority,Environment Priority,116,California,81,658,1276.4687703522209,4.0,1.0
+environment_priority,Environment Priority,116,California,82,0,672.273552385503,4.0,1.0
+environment_priority,Environment Priority,116,California,83,0,354.0640709230315,4.0,1.0
+environment_priority,Environment Priority,116,California,84,0,186.47374401946325,4.0,1.0
+environment_priority,Environment Priority,116,California,85,0,98.20950518358397,4.0,1.0
+environment_priority,Environment Priority,116,California,86,0,51.72367273002089,4.0,1.0
+environment_priority,Environment Priority,116,California,87,0,27.241134304477665,4.0,1.0
+environment_priority,Environment Priority,116,California,88,0,14.346997400358235,4.0,1.0
+environment_priority,Environment Priority,116,California,89,0,7.556085297522003,4.0,1.0
+environment_priority,Environment Priority,116,California,90,0,3.979538256694921,4.0,1.0
+environment_priority,Environment Priority,116,California,91,0,2.0958901485259918,4.0,1.0
+environment_priority,Environment Priority,116,California,92,0,1.103835478223689,4.0,1.0
+environment_priority,Environment Priority,116,California,93,0,0.5813533518644761,4.0,1.0
+environment_priority,Environment Priority,116,California,94,0,0.3061794319819574,4.0,1.0
+environment_priority,Environment Priority,116,California,95,0,0.1612545008438309,4.0,1.0
+environment_priority,Environment Priority,116,California,96,0,0.08492737044441759,4.0,1.0
+environment_priority,Environment Priority,116,California,97,0,0.044728415100726594,4.0,1.0
+environment_priority,Environment Priority,116,California,98,0,0.02355696528638267,4.0,1.0
+environment_priority,Environment Priority,116,California,99,0,0.012406668384161539,4.0,1.0
+environment_priority,Environment Priority,116,California,100,0,0.0065341786823250765,4.0,1.0
+environment_priority,Environment Priority,116,California,101,0,0.00344133410602454,4.0,1.0
+environment_priority,Environment Priority,116,California,102,0,0.0018124359625062577,4.0,1.0
+environment_priority,Environment Priority,116,California,103,0,0.0009545496069199623,4.0,1.0
+environment_priority,Environment Priority,116,California,104,0,0.0005027294596445135,4.0,1.0
+environment_priority,Environment Priority,116,California,105,0,0.0002647708487461104,4.0,1.0
+environment_priority,Environment Priority,116,California,106,0,0.00013944598033961814,4.0,1.0
+environment_priority,Environment Priority,116,California,107,0,7.344154964553222e-05,4.0,1.0
+environment_priority,Environment Priority,116,California,108,0,3.867921614664696e-05,4.0,1.0
+environment_priority,Environment Priority,116,California,109,0,2.0371053837234064e-05,4.0,1.0
+environment_priority,Environment Priority,116,California,110,0,1.0728755020943272e-05,4.0,1.0
+environment_priority,Environment Priority,116,California,111,0,5.650477644363456e-06,4.0,1.0
+environment_priority,Environment Priority,116,California,112,0,2.97591822603142e-06,4.0,1.0
+environment_priority,Environment Priority,116,California,113,0,1.5673169323765477e-06,4.0,1.0
+environment_priority,Environment Priority,116,California,114,0,8.254535843849817e-07,4.0,1.0
+environment_priority,Environment Priority,116,California,115,0,4.347388877760903e-07,4.0,1.0
+environment_priority,Environment Priority,116,California,116,0,2.2896248089540753e-07,4.0,1.0
+environment_priority,Environment Priority,116,Florida,68,20,20.0,4.0,1.0
+environment_priority,Environment Priority,116,Florida,69,70,80.53333333333333,4.0,1.0
+environment_priority,Environment Priority,116,Florida,70,120,162.4142222222222,4.0,1.0
+environment_priority,Environment Priority,116,Florida,71,170,255.53815703703702,4.0,1.0
+environment_priority,Environment Priority,116,Florida,72,219,353.5834293728395,4.0,1.0
+environment_priority,Environment Priority,116,Florida,73,268,454.2206061363621,4.0,1.0
+environment_priority,Environment Priority,116,Florida,74,318,557.2228525651507,4.0,1.0
+environment_priority,Environment Priority,116,Florida,75,367,660.4707023509793,4.0,1.0
+environment_priority,Environment Priority,116,Florida,76,416,763.8479032381824,4.0,1.0
+environment_priority,Environment Priority,116,Florida,77,464,866.293229038776,4.0,1.0
+environment_priority,Environment Priority,116,Florida,78,513,969.2477672937553,4.0,1.0
+environment_priority,Environment Priority,116,Florida,79,561,1071.470490774711,4.0,1.0
+environment_priority,Environment Priority,116,Florida,80,610,1174.3077918080144,4.0,1.0
+environment_priority,Environment Priority,116,Florida,81,658,1276.4687703522209,4.0,1.0
+environment_priority,Environment Priority,116,Florida,82,0,672.273552385503,4.0,1.0
+environment_priority,Environment Priority,116,Florida,83,0,354.0640709230315,4.0,1.0
+environment_priority,Environment Priority,116,Florida,84,0,186.47374401946325,4.0,1.0
+environment_priority,Environment Priority,116,Florida,85,0,98.20950518358397,4.0,1.0
+environment_priority,Environment Priority,116,Florida,86,0,51.72367273002089,4.0,1.0
+environment_priority,Environment Priority,116,Florida,87,0,27.241134304477665,4.0,1.0
+environment_priority,Environment Priority,116,Florida,88,0,14.346997400358235,4.0,1.0
+environment_priority,Environment Priority,116,Florida,89,0,7.556085297522003,4.0,1.0
+environment_priority,Environment Priority,116,Florida,90,0,3.979538256694921,4.0,1.0
+environment_priority,Environment Priority,116,Florida,91,0,2.0958901485259918,4.0,1.0
+environment_priority,Environment Priority,116,Florida,92,0,1.103835478223689,4.0,1.0
+environment_priority,Environment Priority,116,Florida,93,0,0.5813533518644761,4.0,1.0
+environment_priority,Environment Priority,116,Florida,94,0,0.3061794319819574,4.0,1.0
+environment_priority,Environment Priority,116,Florida,95,0,0.1612545008438309,4.0,1.0
+environment_priority,Environment Priority,116,Florida,96,0,0.08492737044441759,4.0,1.0
+environment_priority,Environment Priority,116,Florida,97,0,0.044728415100726594,4.0,1.0
+environment_priority,Environment Priority,116,Florida,98,0,0.02355696528638267,4.0,1.0
+environment_priority,Environment Priority,116,Florida,99,0,0.012406668384161539,4.0,1.0
+environment_priority,Environment Priority,116,Florida,100,0,0.0065341786823250765,4.0,1.0
+environment_priority,Environment Priority,116,Florida,101,0,0.00344133410602454,4.0,1.0
+environment_priority,Environment Priority,116,Florida,102,0,0.0018124359625062577,4.0,1.0
+environment_priority,Environment Priority,116,Florida,103,0,0.0009545496069199623,4.0,1.0
+environment_priority,Environment Priority,116,Florida,104,0,0.0005027294596445135,4.0,1.0
+environment_priority,Environment Priority,116,Florida,105,0,0.0002647708487461104,4.0,1.0
+environment_priority,Environment Priority,116,Florida,106,0,0.00013944598033961814,4.0,1.0
+environment_priority,Environment Priority,116,Florida,107,0,7.344154964553222e-05,4.0,1.0
+environment_priority,Environment Priority,116,Florida,108,0,3.867921614664696e-05,4.0,1.0
+environment_priority,Environment Priority,116,Florida,109,0,2.0371053837234064e-05,4.0,1.0
+environment_priority,Environment Priority,116,Florida,110,0,1.0728755020943272e-05,4.0,1.0
+environment_priority,Environment Priority,116,Florida,111,0,5.650477644363456e-06,4.0,1.0
+environment_priority,Environment Priority,116,Florida,112,0,2.97591822603142e-06,4.0,1.0
+environment_priority,Environment Priority,116,Florida,113,0,1.5673169323765477e-06,4.0,1.0
+environment_priority,Environment Priority,116,Florida,114,0,8.254535843849817e-07,4.0,1.0
+environment_priority,Environment Priority,116,Florida,115,0,4.347388877760903e-07,4.0,1.0
+environment_priority,Environment Priority,116,Florida,116,0,2.2896248089540753e-07,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,68,20,20.0,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,69,70,80.53333333333333,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,70,120,162.4142222222222,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,71,170,255.53815703703702,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,72,219,353.5834293728395,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,73,268,454.2206061363621,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,74,318,557.2228525651507,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,75,367,660.4707023509793,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,76,416,763.8479032381824,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,77,464,866.293229038776,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,78,513,969.2477672937553,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,79,561,1071.470490774711,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,80,610,1174.3077918080144,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,81,658,1276.4687703522209,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,82,0,672.273552385503,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,83,0,354.0640709230315,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,84,0,186.47374401946325,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,85,0,98.20950518358397,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,86,0,51.72367273002089,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,87,0,27.241134304477665,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,88,0,14.346997400358235,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,89,0,7.556085297522003,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,90,0,3.979538256694921,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,91,0,2.0958901485259918,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,92,0,1.103835478223689,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,93,0,0.5813533518644761,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,94,0,0.3061794319819574,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,95,0,0.1612545008438309,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,96,0,0.08492737044441759,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,97,0,0.044728415100726594,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,98,0,0.02355696528638267,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,99,0,0.012406668384161539,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,100,0,0.0065341786823250765,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,101,0,0.00344133410602454,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,102,0,0.0018124359625062577,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,103,0,0.0009545496069199623,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,104,0,0.0005027294596445135,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,105,0,0.0002647708487461104,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,106,0,0.00013944598033961814,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,107,0,7.344154964553222e-05,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,108,0,3.867921614664696e-05,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,109,0,2.0371053837234064e-05,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,110,0,1.0728755020943272e-05,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,111,0,5.650477644363456e-06,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,112,0,2.97591822603142e-06,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,113,0,1.5673169323765477e-06,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,114,0,8.254535843849817e-07,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,115,0,4.347388877760903e-07,4.0,1.0
+environment_priority,Environment Priority,116,Virginia,116,0,2.2896248089540753e-07,4.0,1.0
+environment_priority,Environment Priority,116,French Guiana,29,16,16.0,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,30,76,84.0,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,31,136,178.0,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,32,195,284.0,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,33,255,397.0,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,34,314,512.5,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,35,373,629.25,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,36,432,746.625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,37,490,863.3125,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,38,548,979.65625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,39,607,1096.828125,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,40,665,1213.4140625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,41,722,1328.70703125,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,42,780,1444.353515625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,43,838,1560.1767578125,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,44,895,1675.08837890625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,45,952,1789.544189453125,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,46,1009,1903.7720947265625,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,47,1065,2016.8860473632812,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,48,1122,2130.4430236816406,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,49,1178,2243.2215118408203,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,50,1234,2355.61075592041,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,51,1290,2467.805377960205,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,52,1346,2579.9026889801025,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,53,1402,2691.9513444900513,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,54,1457,2802.9756722450256,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,55,1512,2913.487836122513,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,56,1567,3023.7439180612564,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,57,1622,3133.871959030628,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,58,1677,3243.935979515314,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,59,1731,3352.967989757657,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,60,1786,3462.4839948788285,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,61,1840,3571.2419974394143,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,62,1894,3679.620998719707,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,63,1948,3787.8104993598536,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,64,2001,3894.905249679927,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,65,2055,4002.4526248399634,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,66,2108,4109.226312419982,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,67,2161,4215.613156209991,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,68,2214,4321.806578104995,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,69,2267,4427.903289052498,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,70,2319,4532.951644526249,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,71,2372,4638.475822263124,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,72,2424,4743.237911131562,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,73,2476,4847.618955565781,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,74,2528,4951.80947778289,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,75,2580,5055.904738891445,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,76,2631,5158.952369445722,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,77,2682,5261.476184722861,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,78,2734,5364.738092361431,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,79,2785,5467.3690461807155,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,80,2836,5569.684523090358,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,81,2886,5670.842261545179,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,82,0,2835.4211307725895,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,83,0,1417.7105653862948,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,84,0,708.8552826931474,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,85,114,468.4276413465737,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,86,297,531.2138206732868,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,87,413,678.6069103366434,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,88,496,835.3034551683218,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,89,562,979.6517275841609,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,90,620,1109.8258637920803,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,91,673,1227.9129318960402,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,92,724,1337.9564659480202,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,93,774,1442.97823297401,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,94,823,1544.489116487005,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,95,872,1644.2445582435025,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,96,920,1742.1222791217513,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,97,969,1840.0611395608757,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,98,1017,1937.0305697804379,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,99,1064,2032.515284890219,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,100,1112,2128.2576424451095,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,101,1160,2224.1288212225545,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,102,1207,2319.0644106112773,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,103,1254,2413.532205305639,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,104,1301,2507.7661026528194,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,105,1348,2601.8830513264097,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,106,1395,2695.9415256632046,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,107,1442,2789.9707628316023,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,108,1488,2882.9853814158014,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,109,1534,2975.4926907079007,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,110,1581,3068.7463453539503,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,111,1627,3161.373172676975,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,112,1672,3252.6865863384874,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,113,1718,3344.3432931692437,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,114,1764,3436.171646584622,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,115,1809,3527.085823292311,3.5,0.875
+environment_priority,Environment Priority,116,French Guiana,116,1854,3617.5429116461555,3.5,0.875
+environment_priority,Environment Priority,116,Satish Dhawan,68,20,20.0,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,69,70,80.53333333333333,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,70,120,162.4142222222222,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,71,170,255.53815703703702,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,72,219,353.5834293728395,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,73,268,454.2206061363621,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,74,318,557.2228525651507,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,75,367,660.4707023509793,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,76,416,763.8479032381824,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,77,464,866.293229038776,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,78,513,969.2477672937553,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,79,561,1071.470490774711,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,80,610,1174.3077918080144,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,81,658,1276.4687703522209,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,82,0,672.273552385503,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,83,0,354.0640709230315,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,84,0,186.47374401946325,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,85,0,98.20950518358397,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,86,0,51.72367273002089,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,87,0,27.241134304477665,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,88,0,14.346997400358235,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,89,0,7.556085297522003,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,90,0,3.979538256694921,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,91,0,2.0958901485259918,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,92,0,1.103835478223689,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,93,0,0.5813533518644761,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,94,0,0.3061794319819574,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,95,0,0.1612545008438309,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,96,0,0.08492737044441759,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,97,0,0.044728415100726594,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,98,0,0.02355696528638267,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,99,0,0.012406668384161539,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,100,0,0.0065341786823250765,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,101,0,0.00344133410602454,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,102,0,0.0018124359625062577,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,103,0,0.0009545496069199623,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,104,0,0.0005027294596445135,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,105,0,0.0002647708487461104,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,106,0,0.00013944598033961814,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,107,0,7.344154964553222e-05,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,108,0,3.867921614664696e-05,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,109,0,2.0371053837234064e-05,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,110,0,1.0728755020943272e-05,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,111,0,5.650477644363456e-06,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,112,0,2.97591822603142e-06,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,113,0,1.5673169323765477e-06,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,114,0,8.254535843849817e-07,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,115,0,4.347388877760903e-07,4.0,1.0
+environment_priority,Environment Priority,116,Satish Dhawan,116,0,2.2896248089540753e-07,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,68,20,20.0,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,69,70,80.53333333333333,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,70,120,162.4142222222222,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,71,170,255.53815703703702,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,72,219,353.5834293728395,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,73,268,454.2206061363621,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,74,318,557.2228525651507,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,75,367,660.4707023509793,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,76,416,763.8479032381824,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,77,464,866.293229038776,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,78,513,969.2477672937553,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,79,561,1071.470490774711,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,80,610,1174.3077918080144,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,81,658,1276.4687703522209,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,82,0,672.273552385503,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,83,0,354.0640709230315,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,84,0,186.47374401946325,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,85,0,98.20950518358397,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,86,0,51.72367273002089,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,87,0,27.241134304477665,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,88,0,14.346997400358235,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,89,0,7.556085297522003,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,90,0,3.979538256694921,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,91,0,2.0958901485259918,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,92,0,1.103835478223689,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,93,0,0.5813533518644761,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,94,0,0.3061794319819574,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,95,0,0.1612545008438309,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,96,0,0.08492737044441759,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,97,0,0.044728415100726594,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,98,0,0.02355696528638267,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,99,0,0.012406668384161539,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,100,0,0.0065341786823250765,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,101,0,0.00344133410602454,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,102,0,0.0018124359625062577,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,103,0,0.0009545496069199623,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,104,0,0.0005027294596445135,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,105,0,0.0002647708487461104,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,106,0,0.00013944598033961814,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,107,0,7.344154964553222e-05,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,108,0,3.867921614664696e-05,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,109,0,2.0371053837234064e-05,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,110,0,1.0728755020943272e-05,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,111,0,5.650477644363456e-06,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,112,0,2.97591822603142e-06,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,113,0,1.5673169323765477e-06,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,114,0,8.254535843849817e-07,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,115,0,4.347388877760903e-07,4.0,1.0
+environment_priority,Environment Priority,116,Taiyuan,116,0,2.2896248089540753e-07,4.0,1.0
+environment_priority,Environment Priority,116,Mahia,29,16,16.0,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,30,76,84.0,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,31,136,178.0,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,32,195,284.0,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,33,255,397.0,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,34,314,512.5,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,35,373,629.25,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,36,432,746.625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,37,490,863.3125,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,38,548,979.65625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,39,607,1096.828125,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,40,665,1213.4140625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,41,722,1328.70703125,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,42,780,1444.353515625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,43,838,1560.1767578125,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,44,895,1675.08837890625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,45,952,1789.544189453125,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,46,1009,1903.7720947265625,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,47,1065,2016.8860473632812,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,48,1122,2130.4430236816406,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,49,1178,2243.2215118408203,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,50,1234,2355.61075592041,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,51,1290,2467.805377960205,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,52,1346,2579.9026889801025,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,53,1402,2691.9513444900513,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,54,1457,2802.9756722450256,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,55,1512,2913.487836122513,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,56,1567,3023.7439180612564,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,57,1622,3133.871959030628,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,58,1677,3243.935979515314,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,59,1731,3352.967989757657,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,60,1786,3462.4839948788285,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,61,1840,3571.2419974394143,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,62,1894,3679.620998719707,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,63,1948,3787.8104993598536,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,64,2001,3894.905249679927,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,65,2055,4002.4526248399634,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,66,2108,4109.226312419982,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,67,2161,4215.613156209991,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,68,2214,4321.806578104995,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,69,2267,4427.903289052498,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,70,2319,4532.951644526249,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,71,2372,4638.475822263124,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,72,2424,4743.237911131562,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,73,2476,4847.618955565781,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,74,2528,4951.80947778289,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,75,2580,5055.904738891445,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,76,2631,5158.952369445722,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,77,2682,5261.476184722861,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,78,2734,5364.738092361431,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,79,2785,5467.3690461807155,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,80,2836,5569.684523090358,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,81,2886,5670.842261545179,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,82,0,2835.4211307725895,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,83,0,1417.7105653862948,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,84,0,708.8552826931474,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,85,114,468.4276413465737,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,86,297,531.2138206732868,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,87,414,679.6069103366434,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,88,496,835.8034551683218,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,89,562,979.9017275841609,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,90,620,1109.9508637920803,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,91,673,1227.9754318960402,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,92,724,1337.9877159480202,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,93,774,1442.99385797401,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,94,823,1544.496928987005,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,95,872,1644.2484644935025,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,96,920,1742.1242322467513,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,97,969,1840.0621161233757,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,98,1017,1937.0310580616879,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,99,1064,2032.515529030844,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,100,1112,2128.257764515422,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,101,1160,2224.1288822577108,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,102,1207,2319.0644411288554,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,103,1254,2413.532220564428,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,104,1301,2507.766110282214,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,105,1348,2601.883055141107,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,106,1395,2695.9415275705533,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,107,1442,2789.9707637852766,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,108,1488,2882.9853818926385,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,109,1534,2975.4926909463193,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,110,1581,3068.7463454731596,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,111,1627,3161.37317273658,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,112,1672,3252.6865863682897,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,113,1718,3344.343293184145,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,114,1764,3436.1716465920726,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,115,1809,3527.0858232960363,3.5,0.875
+environment_priority,Environment Priority,116,Mahia,116,1854,3617.542911648018,3.5,0.875
+balanced,Balanced,79,Alaska,4,35,35.0,3.5,0.875
+balanced,Balanced,79,Alaska,5,143,160.5,3.5,0.875
+balanced,Balanced,79,Alaska,6,251,331.25,3.5,0.875
+balanced,Balanced,79,Alaska,7,359,524.625,3.5,0.875
+balanced,Balanced,79,Alaska,8,466,728.3125,3.5,0.875
+balanced,Balanced,79,Alaska,9,573,937.15625,3.5,0.875
+balanced,Balanced,79,Alaska,10,680,1148.578125,3.5,0.875
+balanced,Balanced,79,Alaska,11,785,1359.2890625,3.5,0.875
+balanced,Balanced,79,Alaska,12,891,1570.64453125,3.5,0.875
+balanced,Balanced,79,Alaska,13,996,1781.322265625,3.5,0.875
+balanced,Balanced,79,Alaska,14,1101,1991.6611328125,3.5,0.875
+balanced,Balanced,79,Alaska,15,1205,2200.83056640625,3.5,0.875
+balanced,Balanced,79,Alaska,16,0,1100.415283203125,3.5,0.875
+balanced,Balanced,79,Alaska,17,0,550.2076416015625,3.5,0.875
+balanced,Balanced,79,Alaska,18,289,564.1038208007812,3.5,0.875
+balanced,Balanced,79,Alaska,19,495,777.0519104003906,3.5,0.875
+balanced,Balanced,79,Alaska,20,648,1036.5259552001953,3.5,0.875
+balanced,Balanced,79,Alaska,21,776,1294.2629776000977,3.5,0.875
+balanced,Balanced,79,Alaska,22,890,1537.1314888000488,3.5,0.875
+balanced,Balanced,79,Alaska,23,998,1766.5657444000244,3.5,0.875
+balanced,Balanced,79,Alaska,24,1102,1985.2828722000122,3.5,0.875
+balanced,Balanced,79,Alaska,25,1203,2195.641436100006,3.5,0.875
+balanced,Balanced,79,Alaska,26,1304,2401.820718050003,3.5,0.875
+balanced,Balanced,79,Alaska,27,1404,2604.9103590250015,3.5,0.875
+balanced,Balanced,79,Alaska,28,1503,2805.4551795125008,3.5,0.875
+balanced,Balanced,79,Alaska,29,1602,3004.7275897562504,3.5,0.875
+balanced,Balanced,79,Alaska,30,1700,3202.363794878125,3.5,0.875
+balanced,Balanced,79,Alaska,31,1798,3399.1818974390626,3.5,0.875
+balanced,Balanced,79,Alaska,32,1896,3595.5909487195313,3.5,0.875
+balanced,Balanced,79,Alaska,33,1993,3790.7954743597656,3.5,0.875
+balanced,Balanced,79,Alaska,34,2090,3985.397737179883,3.5,0.875
+balanced,Balanced,79,Alaska,35,2186,4178.698868589941,3.5,0.875
+balanced,Balanced,79,Alaska,36,2282,4371.349434294971,3.5,0.875
+balanced,Balanced,79,Alaska,37,2377,4562.674717147485,3.5,0.875
+balanced,Balanced,79,Alaska,38,2473,4754.337358573743,3.5,0.875
+balanced,Balanced,79,Alaska,39,2568,4945.168679286871,3.5,0.875
+balanced,Balanced,79,Alaska,40,2662,5134.584339643436,3.5,0.875
+balanced,Balanced,79,Alaska,41,2756,5323.292169821718,3.5,0.875
+balanced,Balanced,79,Alaska,42,2850,5511.646084910859,3.5,0.875
+balanced,Balanced,79,Alaska,43,2943,5698.8230424554295,3.5,0.875
+balanced,Balanced,79,Alaska,44,3036,5885.411521227715,3.5,0.875
+balanced,Balanced,79,Alaska,45,3129,6071.705760613857,3.5,0.875
+balanced,Balanced,79,Alaska,46,3221,6256.8528803069285,3.5,0.875
+balanced,Balanced,79,Alaska,47,3313,6441.426440153464,3.5,0.875
+balanced,Balanced,79,Alaska,48,3404,6624.713220076732,3.5,0.875
+balanced,Balanced,79,Alaska,49,3496,6808.356610038366,3.5,0.875
+balanced,Balanced,79,Alaska,50,3586,6990.1783050191825,3.5,0.875
+balanced,Balanced,79,Alaska,51,3677,7172.089152509591,3.5,0.875
+balanced,Balanced,79,Alaska,52,3767,7353.044576254795,3.5,0.875
+balanced,Balanced,79,Alaska,53,3857,7533.522288127398,3.5,0.875
+balanced,Balanced,79,Alaska,54,3946,7712.761144063699,3.5,0.875
+balanced,Balanced,79,Alaska,55,4035,7891.38057203185,3.5,0.875
+balanced,Balanced,79,Alaska,56,0,3945.690286015925,3.5,0.875
+balanced,Balanced,79,Alaska,57,0,1972.8451430079624,3.5,0.875
+balanced,Balanced,79,Alaska,58,434,1420.422571503981,3.5,0.875
+balanced,Balanced,79,Alaska,59,891,1601.2112857519905,3.5,0.875
+balanced,Balanced,79,Alaska,60,1163,1963.6056428759953,3.5,0.875
+balanced,Balanced,79,Alaska,61,1343,2324.8028214379974,3.5,0.875
+balanced,Balanced,79,Alaska,62,1476,2638.4014107189987,3.5,0.875
+balanced,Balanced,79,Alaska,63,1585,2904.2007053594994,3.5,0.875
+balanced,Balanced,79,Alaska,64,1683,3135.1003526797494,3.5,0.875
+balanced,Balanced,79,Alaska,65,1774,3341.5501763398747,3.5,0.875
+balanced,Balanced,79,Alaska,66,1862,3532.7750881699376,3.5,0.875
+balanced,Balanced,79,Alaska,67,1949,3715.387544084969,3.5,0.875
+balanced,Balanced,79,Alaska,68,2034,3891.6937720424844,3.5,0.875
+balanced,Balanced,79,Alaska,69,2118,4063.8468860212424,3.5,0.875
+balanced,Balanced,79,Alaska,70,2203,4234.923443010621,3.5,0.875
+balanced,Balanced,79,Alaska,71,2286,4403.46172150531,3.5,0.875
+balanced,Balanced,79,Alaska,72,2370,4571.730860752656,3.5,0.875
+balanced,Balanced,79,Alaska,73,2453,4738.865430376328,3.5,0.875
+balanced,Balanced,79,Alaska,74,2535,4904.432715188164,3.5,0.875
+balanced,Balanced,79,Alaska,75,2618,5070.216357594082,3.5,0.875
+balanced,Balanced,79,Alaska,76,2700,5235.108178797042,3.5,0.875
+balanced,Balanced,79,Alaska,77,2781,5398.554089398521,3.5,0.875
+balanced,Balanced,79,Alaska,78,2863,5562.27704469926,3.5,0.875
+balanced,Balanced,79,Alaska,79,2944,5725.13852234963,3.5,0.875
+balanced,Balanced,79,California,38,64,64.0,4.0,1.0
+balanced,Balanced,79,California,39,150,183.70666666666665,4.0,1.0
+balanced,Balanced,79,California,40,236,332.7521777777778,4.0,1.0
+balanced,Balanced,79,California,41,321,496.24948029629627,4.0,1.0
+balanced,Balanced,79,California,42,406,667.3580596227159,4.0,1.0
+balanced,Balanced,79,California,43,491,842.4752447346303,4.0,1.0
+balanced,Balanced,79,California,44,575,1018.7036288935719,4.0,1.0
+balanced,Balanced,79,California,45,659,1195.5172445506146,4.0,1.0
+balanced,Balanced,79,California,46,743,1372.6390821299901,4.0,1.0
+balanced,Balanced,79,California,47,826,1548.9232499217946,4.0,1.0
+balanced,Balanced,79,California,48,909,1724.7662449588117,4.0,1.0
+balanced,Balanced,79,California,49,992,1900.3768890116407,4.0,1.0
+balanced,Balanced,79,California,50,1074,2074.865161546131,4.0,1.0
+balanced,Balanced,79,California,51,1157,2249.7623184142954,4.0,1.0
+balanced,Balanced,79,California,52,1238,2422.874821031529,4.0,1.0
+balanced,Balanced,79,California,53,1320,2596.047405743272,4.0,1.0
+balanced,Balanced,79,California,54,1401,2768.2516336914564,4.0,1.0
+balanced,Balanced,79,California,55,1482,2939.9458604108336,4.0,1.0
+balanced,Balanced,79,California,56,0,1548.3714864830388,4.0,1.0
+balanced,Balanced,79,California,57,0,815.4756495477337,4.0,1.0
+balanced,Balanced,79,California,58,0,429.4838420951397,4.0,1.0
+balanced,Balanced,79,California,59,0,226.19482350344023,4.0,1.0
+balanced,Balanced,79,California,60,0,119.12927371181185,4.0,1.0
+balanced,Balanced,79,California,61,0,62.741417488220904,4.0,1.0
+balanced,Balanced,79,California,62,0,33.04381321046301,4.0,1.0
+balanced,Balanced,79,California,63,0,17.403074957510515,4.0,1.0
+balanced,Balanced,79,California,64,0,9.165619477622204,4.0,1.0
+balanced,Balanced,79,California,65,0,4.827226258214361,4.0,1.0
+balanced,Balanced,79,California,66,0,2.542339162659563,4.0,1.0
+balanced,Balanced,79,California,67,0,1.3389652923340363,4.0,1.0
+balanced,Balanced,79,California,68,0,0.7051883872959257,4.0,1.0
+balanced,Balanced,79,California,69,0,0.3713992173091875,4.0,1.0
+balanced,Balanced,79,California,70,22,22.195603587782838,4.0,1.0
+balanced,Balanced,79,California,71,98,109.6896845562323,4.0,1.0
+balanced,Balanced,79,California,72,173,230.769900532949,4.0,1.0
+balanced,Balanced,79,California,73,249,370.53881428068644,4.0,1.0
+balanced,Balanced,79,California,74,324,519.1504421878282,4.0,1.0
+balanced,Balanced,79,California,75,399,672.4192328855895,4.0,1.0
+balanced,Balanced,79,California,76,473,827.1407959864105,4.0,1.0
+balanced,Balanced,79,California,77,548,983.6274858861761,4.0,1.0
+balanced,Balanced,79,California,78,622,1140.0438092333861,4.0,1.0
+balanced,Balanced,79,California,79,695,1295.4230728629168,4.0,1.0
+balanced,Balanced,79,Florida,38,64,64.0,4.0,1.0
+balanced,Balanced,79,Florida,39,150,183.70666666666665,4.0,1.0
+balanced,Balanced,79,Florida,40,236,332.7521777777778,4.0,1.0
+balanced,Balanced,79,Florida,41,321,496.24948029629627,4.0,1.0
+balanced,Balanced,79,Florida,42,406,667.3580596227159,4.0,1.0
+balanced,Balanced,79,Florida,43,491,842.4752447346303,4.0,1.0
+balanced,Balanced,79,Florida,44,575,1018.7036288935719,4.0,1.0
+balanced,Balanced,79,Florida,45,659,1195.5172445506146,4.0,1.0
+balanced,Balanced,79,Florida,46,743,1372.6390821299901,4.0,1.0
+balanced,Balanced,79,Florida,47,826,1548.9232499217946,4.0,1.0
+balanced,Balanced,79,Florida,48,909,1724.7662449588117,4.0,1.0
+balanced,Balanced,79,Florida,49,992,1900.3768890116407,4.0,1.0
+balanced,Balanced,79,Florida,50,1074,2074.865161546131,4.0,1.0
+balanced,Balanced,79,Florida,51,1157,2249.7623184142954,4.0,1.0
+balanced,Balanced,79,Florida,52,1238,2422.874821031529,4.0,1.0
+balanced,Balanced,79,Florida,53,1320,2596.047405743272,4.0,1.0
+balanced,Balanced,79,Florida,54,1401,2768.2516336914564,4.0,1.0
+balanced,Balanced,79,Florida,55,1482,2939.9458604108336,4.0,1.0
+balanced,Balanced,79,Florida,56,0,1548.3714864830388,4.0,1.0
+balanced,Balanced,79,Florida,57,0,815.4756495477337,4.0,1.0
+balanced,Balanced,79,Florida,58,0,429.4838420951397,4.0,1.0
+balanced,Balanced,79,Florida,59,0,226.19482350344023,4.0,1.0
+balanced,Balanced,79,Florida,60,0,119.12927371181185,4.0,1.0
+balanced,Balanced,79,Florida,61,0,62.741417488220904,4.0,1.0
+balanced,Balanced,79,Florida,62,0,33.04381321046301,4.0,1.0
+balanced,Balanced,79,Florida,63,0,17.403074957510515,4.0,1.0
+balanced,Balanced,79,Florida,64,0,9.165619477622204,4.0,1.0
+balanced,Balanced,79,Florida,65,0,4.827226258214361,4.0,1.0
+balanced,Balanced,79,Florida,66,0,2.542339162659563,4.0,1.0
+balanced,Balanced,79,Florida,67,0,1.3389652923340363,4.0,1.0
+balanced,Balanced,79,Florida,68,0,0.7051883872959257,4.0,1.0
+balanced,Balanced,79,Florida,69,0,0.3713992173091875,4.0,1.0
+balanced,Balanced,79,Florida,70,22,22.195603587782838,4.0,1.0
+balanced,Balanced,79,Florida,71,98,109.6896845562323,4.0,1.0
+balanced,Balanced,79,Florida,72,173,230.769900532949,4.0,1.0
+balanced,Balanced,79,Florida,73,249,370.53881428068644,4.0,1.0
+balanced,Balanced,79,Florida,74,324,519.1504421878282,4.0,1.0
+balanced,Balanced,79,Florida,75,399,672.4192328855895,4.0,1.0
+balanced,Balanced,79,Florida,76,473,827.1407959864105,4.0,1.0
+balanced,Balanced,79,Florida,77,548,983.6274858861761,4.0,1.0
+balanced,Balanced,79,Florida,78,622,1140.0438092333861,4.0,1.0
+balanced,Balanced,79,Florida,79,695,1295.4230728629168,4.0,1.0
+balanced,Balanced,79,Virginia,38,64,64.0,4.0,1.0
+balanced,Balanced,79,Virginia,39,150,183.70666666666665,4.0,1.0
+balanced,Balanced,79,Virginia,40,236,332.7521777777778,4.0,1.0
+balanced,Balanced,79,Virginia,41,321,496.24948029629627,4.0,1.0
+balanced,Balanced,79,Virginia,42,406,667.3580596227159,4.0,1.0
+balanced,Balanced,79,Virginia,43,491,842.4752447346303,4.0,1.0
+balanced,Balanced,79,Virginia,44,575,1018.7036288935719,4.0,1.0
+balanced,Balanced,79,Virginia,45,659,1195.5172445506146,4.0,1.0
+balanced,Balanced,79,Virginia,46,743,1372.6390821299901,4.0,1.0
+balanced,Balanced,79,Virginia,47,826,1548.9232499217946,4.0,1.0
+balanced,Balanced,79,Virginia,48,909,1724.7662449588117,4.0,1.0
+balanced,Balanced,79,Virginia,49,992,1900.3768890116407,4.0,1.0
+balanced,Balanced,79,Virginia,50,1074,2074.865161546131,4.0,1.0
+balanced,Balanced,79,Virginia,51,1157,2249.7623184142954,4.0,1.0
+balanced,Balanced,79,Virginia,52,1238,2422.874821031529,4.0,1.0
+balanced,Balanced,79,Virginia,53,1320,2596.047405743272,4.0,1.0
+balanced,Balanced,79,Virginia,54,1401,2768.2516336914564,4.0,1.0
+balanced,Balanced,79,Virginia,55,1482,2939.9458604108336,4.0,1.0
+balanced,Balanced,79,Virginia,56,0,1548.3714864830388,4.0,1.0
+balanced,Balanced,79,Virginia,57,0,815.4756495477337,4.0,1.0
+balanced,Balanced,79,Virginia,58,0,429.4838420951397,4.0,1.0
+balanced,Balanced,79,Virginia,59,0,226.19482350344023,4.0,1.0
+balanced,Balanced,79,Virginia,60,0,119.12927371181185,4.0,1.0
+balanced,Balanced,79,Virginia,61,0,62.741417488220904,4.0,1.0
+balanced,Balanced,79,Virginia,62,0,33.04381321046301,4.0,1.0
+balanced,Balanced,79,Virginia,63,0,17.403074957510515,4.0,1.0
+balanced,Balanced,79,Virginia,64,0,9.165619477622204,4.0,1.0
+balanced,Balanced,79,Virginia,65,0,4.827226258214361,4.0,1.0
+balanced,Balanced,79,Virginia,66,0,2.542339162659563,4.0,1.0
+balanced,Balanced,79,Virginia,67,0,1.3389652923340363,4.0,1.0
+balanced,Balanced,79,Virginia,68,0,0.7051883872959257,4.0,1.0
+balanced,Balanced,79,Virginia,69,0,0.3713992173091875,4.0,1.0
+balanced,Balanced,79,Virginia,70,22,22.195603587782838,4.0,1.0
+balanced,Balanced,79,Virginia,71,98,109.6896845562323,4.0,1.0
+balanced,Balanced,79,Virginia,72,173,230.769900532949,4.0,1.0
+balanced,Balanced,79,Virginia,73,249,370.53881428068644,4.0,1.0
+balanced,Balanced,79,Virginia,74,324,519.1504421878282,4.0,1.0
+balanced,Balanced,79,Virginia,75,399,672.4192328855895,4.0,1.0
+balanced,Balanced,79,Virginia,76,473,827.1407959864105,4.0,1.0
+balanced,Balanced,79,Virginia,77,548,983.6274858861761,4.0,1.0
+balanced,Balanced,79,Virginia,78,622,1140.0438092333861,4.0,1.0
+balanced,Balanced,79,Virginia,79,695,1295.4230728629168,4.0,1.0
+balanced,Balanced,79,French Guiana,4,35,35.0,3.5,0.875
+balanced,Balanced,79,French Guiana,5,143,160.5,3.5,0.875
+balanced,Balanced,79,French Guiana,6,251,331.25,3.5,0.875
+balanced,Balanced,79,French Guiana,7,359,524.625,3.5,0.875
+balanced,Balanced,79,French Guiana,8,466,728.3125,3.5,0.875
+balanced,Balanced,79,French Guiana,9,573,937.15625,3.5,0.875
+balanced,Balanced,79,French Guiana,10,680,1148.578125,3.5,0.875
+balanced,Balanced,79,French Guiana,11,785,1359.2890625,3.5,0.875
+balanced,Balanced,79,French Guiana,12,891,1570.64453125,3.5,0.875
+balanced,Balanced,79,French Guiana,13,996,1781.322265625,3.5,0.875
+balanced,Balanced,79,French Guiana,14,1101,1991.6611328125,3.5,0.875
+balanced,Balanced,79,French Guiana,15,1205,2200.83056640625,3.5,0.875
+balanced,Balanced,79,French Guiana,16,0,1100.415283203125,3.5,0.875
+balanced,Balanced,79,French Guiana,17,0,550.2076416015625,3.5,0.875
+balanced,Balanced,79,French Guiana,18,289,564.1038208007812,3.5,0.875
+balanced,Balanced,79,French Guiana,19,495,777.0519104003906,3.5,0.875
+balanced,Balanced,79,French Guiana,20,648,1036.5259552001953,3.5,0.875
+balanced,Balanced,79,French Guiana,21,776,1294.2629776000977,3.5,0.875
+balanced,Balanced,79,French Guiana,22,890,1537.1314888000488,3.5,0.875
+balanced,Balanced,79,French Guiana,23,998,1766.5657444000244,3.5,0.875
+balanced,Balanced,79,French Guiana,24,1102,1985.2828722000122,3.5,0.875
+balanced,Balanced,79,French Guiana,25,1203,2195.641436100006,3.5,0.875
+balanced,Balanced,79,French Guiana,26,1304,2401.820718050003,3.5,0.875
+balanced,Balanced,79,French Guiana,27,1404,2604.9103590250015,3.5,0.875
+balanced,Balanced,79,French Guiana,28,1503,2805.4551795125008,3.5,0.875
+balanced,Balanced,79,French Guiana,29,1602,3004.7275897562504,3.5,0.875
+balanced,Balanced,79,French Guiana,30,1700,3202.363794878125,3.5,0.875
+balanced,Balanced,79,French Guiana,31,1798,3399.1818974390626,3.5,0.875
+balanced,Balanced,79,French Guiana,32,1896,3595.5909487195313,3.5,0.875
+balanced,Balanced,79,French Guiana,33,1993,3790.7954743597656,3.5,0.875
+balanced,Balanced,79,French Guiana,34,2090,3985.397737179883,3.5,0.875
+balanced,Balanced,79,French Guiana,35,2186,4178.698868589941,3.5,0.875
+balanced,Balanced,79,French Guiana,36,2282,4371.349434294971,3.5,0.875
+balanced,Balanced,79,French Guiana,37,2377,4562.674717147485,3.5,0.875
+balanced,Balanced,79,French Guiana,38,2473,4754.337358573743,3.5,0.875
+balanced,Balanced,79,French Guiana,39,2567,4944.168679286871,3.5,0.875
+balanced,Balanced,79,French Guiana,40,2662,5134.084339643436,3.5,0.875
+balanced,Balanced,79,French Guiana,41,2756,5323.042169821718,3.5,0.875
+balanced,Balanced,79,French Guiana,42,2850,5511.521084910859,3.5,0.875
+balanced,Balanced,79,French Guiana,43,2943,5698.7605424554295,3.5,0.875
+balanced,Balanced,79,French Guiana,44,3036,5885.380271227715,3.5,0.875
+balanced,Balanced,79,French Guiana,45,3129,6071.690135613857,3.5,0.875
+balanced,Balanced,79,French Guiana,46,3221,6256.8450678069285,3.5,0.875
+balanced,Balanced,79,French Guiana,47,3313,6441.422533903464,3.5,0.875
+balanced,Balanced,79,French Guiana,48,3404,6624.711266951732,3.5,0.875
+balanced,Balanced,79,French Guiana,49,3496,6808.355633475866,3.5,0.875
+balanced,Balanced,79,French Guiana,50,3586,6990.1778167379325,3.5,0.875
+balanced,Balanced,79,French Guiana,51,3677,7172.088908368966,3.5,0.875
+balanced,Balanced,79,French Guiana,52,3767,7353.044454184483,3.5,0.875
+balanced,Balanced,79,French Guiana,53,3857,7533.522227092241,3.5,0.875
+balanced,Balanced,79,French Guiana,54,3946,7712.761113546121,3.5,0.875
+balanced,Balanced,79,French Guiana,55,4035,7891.380556773061,3.5,0.875
+balanced,Balanced,79,French Guiana,56,0,3945.6902783865303,3.5,0.875
+balanced,Balanced,79,French Guiana,57,0,1972.8451391932651,3.5,0.875
+balanced,Balanced,79,French Guiana,58,434,1420.4225695966325,3.5,0.875
+balanced,Balanced,79,French Guiana,59,891,1601.2112847983162,3.5,0.875
+balanced,Balanced,79,French Guiana,60,1163,1963.6056423991581,3.5,0.875
+balanced,Balanced,79,French Guiana,61,1343,2324.802821199579,3.5,0.875
+balanced,Balanced,79,French Guiana,62,1476,2638.4014105997894,3.5,0.875
+balanced,Balanced,79,French Guiana,63,1585,2904.2007052998947,3.5,0.875
+balanced,Balanced,79,French Guiana,64,1683,3135.100352649947,3.5,0.875
+balanced,Balanced,79,French Guiana,65,1774,3341.5501763249736,3.5,0.875
+balanced,Balanced,79,French Guiana,66,1862,3532.775088162487,3.5,0.875
+balanced,Balanced,79,French Guiana,67,1949,3715.3875440812435,3.5,0.875
+balanced,Balanced,79,French Guiana,68,2034,3891.6937720406218,3.5,0.875
+balanced,Balanced,79,French Guiana,69,2119,4064.846886020311,3.5,0.875
+balanced,Balanced,79,French Guiana,70,2203,4235.423443010155,3.5,0.875
+balanced,Balanced,79,French Guiana,71,2286,4403.711721505078,3.5,0.875
+balanced,Balanced,79,French Guiana,72,2370,4571.855860752539,3.5,0.875
+balanced,Balanced,79,French Guiana,73,2453,4738.92793037627,3.5,0.875
+balanced,Balanced,79,French Guiana,74,2535,4904.463965188135,3.5,0.875
+balanced,Balanced,79,French Guiana,75,2618,5070.231982594068,3.5,0.875
+balanced,Balanced,79,French Guiana,76,2700,5235.115991297034,3.5,0.875
+balanced,Balanced,79,French Guiana,77,2781,5398.557995648517,3.5,0.875
+balanced,Balanced,79,French Guiana,78,2863,5562.278997824258,3.5,0.875
+balanced,Balanced,79,French Guiana,79,2944,5725.139498912129,3.5,0.875
+balanced,Balanced,79,Satish Dhawan,38,64,64.0,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,39,150,183.70666666666665,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,40,236,332.7521777777778,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,41,321,496.24948029629627,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,42,406,667.3580596227159,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,43,491,842.4752447346303,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,44,575,1018.7036288935719,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,45,659,1195.5172445506146,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,46,743,1372.6390821299901,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,47,826,1548.9232499217946,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,48,909,1724.7662449588117,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,49,992,1900.3768890116407,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,50,1074,2074.865161546131,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,51,1157,2249.7623184142954,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,52,1238,2422.874821031529,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,53,1320,2596.047405743272,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,54,1401,2768.2516336914564,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,55,1482,2939.9458604108336,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,56,0,1548.3714864830388,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,57,0,815.4756495477337,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,58,0,429.4838420951397,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,59,0,226.19482350344023,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,60,0,119.12927371181185,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,61,0,62.741417488220904,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,62,0,33.04381321046301,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,63,0,17.403074957510515,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,64,0,9.165619477622204,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,65,0,4.827226258214361,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,66,0,2.542339162659563,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,67,0,1.3389652923340363,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,68,0,0.7051883872959257,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,69,0,0.3713992173091875,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,70,22,22.195603587782838,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,71,98,109.6896845562323,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,72,173,230.769900532949,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,73,249,370.53881428068644,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,74,324,519.1504421878282,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,75,399,672.4192328855895,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,76,473,827.1407959864105,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,77,548,983.6274858861761,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,78,622,1140.0438092333861,4.0,1.0
+balanced,Balanced,79,Satish Dhawan,79,695,1295.4230728629168,4.0,1.0
+balanced,Balanced,79,Taiyuan,38,64,64.0,4.0,1.0
+balanced,Balanced,79,Taiyuan,39,150,183.70666666666665,4.0,1.0
+balanced,Balanced,79,Taiyuan,40,236,332.7521777777778,4.0,1.0
+balanced,Balanced,79,Taiyuan,41,321,496.24948029629627,4.0,1.0
+balanced,Balanced,79,Taiyuan,42,406,667.3580596227159,4.0,1.0
+balanced,Balanced,79,Taiyuan,43,491,842.4752447346303,4.0,1.0
+balanced,Balanced,79,Taiyuan,44,575,1018.7036288935719,4.0,1.0
+balanced,Balanced,79,Taiyuan,45,659,1195.5172445506146,4.0,1.0
+balanced,Balanced,79,Taiyuan,46,743,1372.6390821299901,4.0,1.0
+balanced,Balanced,79,Taiyuan,47,826,1548.9232499217946,4.0,1.0
+balanced,Balanced,79,Taiyuan,48,909,1724.7662449588117,4.0,1.0
+balanced,Balanced,79,Taiyuan,49,992,1900.3768890116407,4.0,1.0
+balanced,Balanced,79,Taiyuan,50,1074,2074.865161546131,4.0,1.0
+balanced,Balanced,79,Taiyuan,51,1157,2249.7623184142954,4.0,1.0
+balanced,Balanced,79,Taiyuan,52,1238,2422.874821031529,4.0,1.0
+balanced,Balanced,79,Taiyuan,53,1320,2596.047405743272,4.0,1.0
+balanced,Balanced,79,Taiyuan,54,1401,2768.2516336914564,4.0,1.0
+balanced,Balanced,79,Taiyuan,55,1482,2939.9458604108336,4.0,1.0
+balanced,Balanced,79,Taiyuan,56,0,1548.3714864830388,4.0,1.0
+balanced,Balanced,79,Taiyuan,57,0,815.4756495477337,4.0,1.0
+balanced,Balanced,79,Taiyuan,58,0,429.4838420951397,4.0,1.0
+balanced,Balanced,79,Taiyuan,59,0,226.19482350344023,4.0,1.0
+balanced,Balanced,79,Taiyuan,60,0,119.12927371181185,4.0,1.0
+balanced,Balanced,79,Taiyuan,61,0,62.741417488220904,4.0,1.0
+balanced,Balanced,79,Taiyuan,62,0,33.04381321046301,4.0,1.0
+balanced,Balanced,79,Taiyuan,63,0,17.403074957510515,4.0,1.0
+balanced,Balanced,79,Taiyuan,64,0,9.165619477622204,4.0,1.0
+balanced,Balanced,79,Taiyuan,65,0,4.827226258214361,4.0,1.0
+balanced,Balanced,79,Taiyuan,66,0,2.542339162659563,4.0,1.0
+balanced,Balanced,79,Taiyuan,67,0,1.3389652923340363,4.0,1.0
+balanced,Balanced,79,Taiyuan,68,0,0.7051883872959257,4.0,1.0
+balanced,Balanced,79,Taiyuan,69,0,0.3713992173091875,4.0,1.0
+balanced,Balanced,79,Taiyuan,70,22,22.195603587782838,4.0,1.0
+balanced,Balanced,79,Taiyuan,71,98,109.6896845562323,4.0,1.0
+balanced,Balanced,79,Taiyuan,72,173,230.769900532949,4.0,1.0
+balanced,Balanced,79,Taiyuan,73,249,370.53881428068644,4.0,1.0
+balanced,Balanced,79,Taiyuan,74,324,519.1504421878282,4.0,1.0
+balanced,Balanced,79,Taiyuan,75,399,672.4192328855895,4.0,1.0
+balanced,Balanced,79,Taiyuan,76,473,827.1407959864105,4.0,1.0
+balanced,Balanced,79,Taiyuan,77,548,983.6274858861761,4.0,1.0
+balanced,Balanced,79,Taiyuan,78,622,1140.0438092333861,4.0,1.0
+balanced,Balanced,79,Taiyuan,79,695,1295.4230728629168,4.0,1.0
+balanced,Balanced,79,Mahia,4,35,35.0,3.5,0.875
+balanced,Balanced,79,Mahia,5,143,160.5,3.5,0.875
+balanced,Balanced,79,Mahia,6,251,331.25,3.5,0.875
+balanced,Balanced,79,Mahia,7,359,524.625,3.5,0.875
+balanced,Balanced,79,Mahia,8,466,728.3125,3.5,0.875
+balanced,Balanced,79,Mahia,9,573,937.15625,3.5,0.875
+balanced,Balanced,79,Mahia,10,679,1147.578125,3.5,0.875
+balanced,Balanced,79,Mahia,11,785,1358.7890625,3.5,0.875
+balanced,Balanced,79,Mahia,12,891,1570.39453125,3.5,0.875
+balanced,Balanced,79,Mahia,13,996,1781.197265625,3.5,0.875
+balanced,Balanced,79,Mahia,14,1101,1991.5986328125,3.5,0.875
+balanced,Balanced,79,Mahia,15,1205,2200.79931640625,3.5,0.875
+balanced,Balanced,79,Mahia,16,0,1100.399658203125,3.5,0.875
+balanced,Balanced,79,Mahia,17,0,550.1998291015625,3.5,0.875
+balanced,Balanced,79,Mahia,18,289,564.0999145507812,3.5,0.875
+balanced,Balanced,79,Mahia,19,495,777.0499572753906,3.5,0.875
+balanced,Balanced,79,Mahia,20,648,1036.5249786376953,3.5,0.875
+balanced,Balanced,79,Mahia,21,776,1294.2624893188477,3.5,0.875
+balanced,Balanced,79,Mahia,22,890,1537.1312446594238,3.5,0.875
+balanced,Balanced,79,Mahia,23,998,1766.565622329712,3.5,0.875
+balanced,Balanced,79,Mahia,24,1102,1985.282811164856,3.5,0.875
+balanced,Balanced,79,Mahia,25,1203,2195.641405582428,3.5,0.875
+balanced,Balanced,79,Mahia,26,1304,2401.820702791214,3.5,0.875
+balanced,Balanced,79,Mahia,27,1404,2604.910351395607,3.5,0.875
+balanced,Balanced,79,Mahia,28,1503,2805.4551756978035,3.5,0.875
+balanced,Balanced,79,Mahia,29,1602,3004.7275878489017,3.5,0.875
+balanced,Balanced,79,Mahia,30,1700,3202.363793924451,3.5,0.875
+balanced,Balanced,79,Mahia,31,1798,3399.1818969622254,3.5,0.875
+balanced,Balanced,79,Mahia,32,1896,3595.5909484811127,3.5,0.875
+balanced,Balanced,79,Mahia,33,1993,3790.7954742405564,3.5,0.875
+balanced,Balanced,79,Mahia,34,2090,3985.397737120278,3.5,0.875
+balanced,Balanced,79,Mahia,35,2186,4178.698868560139,3.5,0.875
+balanced,Balanced,79,Mahia,36,2282,4371.3494342800695,3.5,0.875
+balanced,Balanced,79,Mahia,37,2377,4562.674717140035,3.5,0.875
+balanced,Balanced,79,Mahia,38,2473,4754.337358570017,3.5,0.875
+balanced,Balanced,79,Mahia,39,2568,4945.168679285009,3.5,0.875
+balanced,Balanced,79,Mahia,40,2662,5134.584339642504,3.5,0.875
+balanced,Balanced,79,Mahia,41,2756,5323.292169821252,3.5,0.875
+balanced,Balanced,79,Mahia,42,2850,5511.646084910626,3.5,0.875
+balanced,Balanced,79,Mahia,43,2943,5698.823042455313,3.5,0.875
+balanced,Balanced,79,Mahia,44,3036,5885.4115212276565,3.5,0.875
+balanced,Balanced,79,Mahia,45,3129,6071.705760613828,3.5,0.875
+balanced,Balanced,79,Mahia,46,3221,6256.852880306914,3.5,0.875
+balanced,Balanced,79,Mahia,47,3313,6441.4264401534565,3.5,0.875
+balanced,Balanced,79,Mahia,48,3404,6624.713220076728,3.5,0.875
+balanced,Balanced,79,Mahia,49,3496,6808.356610038364,3.5,0.875
+balanced,Balanced,79,Mahia,50,3586,6990.1783050191825,3.5,0.875
+balanced,Balanced,79,Mahia,51,3677,7172.089152509591,3.5,0.875
+balanced,Balanced,79,Mahia,52,3767,7353.044576254795,3.5,0.875
+balanced,Balanced,79,Mahia,53,3857,7533.522288127398,3.5,0.875
+balanced,Balanced,79,Mahia,54,3946,7712.761144063699,3.5,0.875
+balanced,Balanced,79,Mahia,55,4035,7891.38057203185,3.5,0.875
+balanced,Balanced,79,Mahia,56,0,3945.690286015925,3.5,0.875
+balanced,Balanced,79,Mahia,57,0,1972.8451430079624,3.5,0.875
+balanced,Balanced,79,Mahia,58,434,1420.422571503981,3.5,0.875
+balanced,Balanced,79,Mahia,59,891,1601.2112857519905,3.5,0.875
+balanced,Balanced,79,Mahia,60,1163,1963.6056428759953,3.5,0.875
+balanced,Balanced,79,Mahia,61,1343,2324.8028214379974,3.5,0.875
+balanced,Balanced,79,Mahia,62,1476,2638.4014107189987,3.5,0.875
+balanced,Balanced,79,Mahia,63,1585,2904.2007053594994,3.5,0.875
+balanced,Balanced,79,Mahia,64,1683,3135.1003526797494,3.5,0.875
+balanced,Balanced,79,Mahia,65,1774,3341.5501763398747,3.5,0.875
+balanced,Balanced,79,Mahia,66,1862,3532.7750881699376,3.5,0.875
+balanced,Balanced,79,Mahia,67,1949,3715.387544084969,3.5,0.875
+balanced,Balanced,79,Mahia,68,2034,3891.6937720424844,3.5,0.875
+balanced,Balanced,79,Mahia,69,2118,4063.8468860212424,3.5,0.875
+balanced,Balanced,79,Mahia,70,2203,4234.923443010621,3.5,0.875
+balanced,Balanced,79,Mahia,71,2286,4403.46172150531,3.5,0.875
+balanced,Balanced,79,Mahia,72,2370,4571.730860752656,3.5,0.875
+balanced,Balanced,79,Mahia,73,2453,4738.865430376328,3.5,0.875
+balanced,Balanced,79,Mahia,74,2535,4904.432715188164,3.5,0.875
+balanced,Balanced,79,Mahia,75,2618,5070.216357594082,3.5,0.875
+balanced,Balanced,79,Mahia,76,2700,5235.108178797042,3.5,0.875
+balanced,Balanced,79,Mahia,77,2781,5398.554089398521,3.5,0.875
+balanced,Balanced,79,Mahia,78,2863,5562.27704469926,3.5,0.875
+balanced,Balanced,79,Mahia,79,2944,5725.13852234963,3.5,0.875
