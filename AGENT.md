@@ -1,6 +1,6 @@
 # AGENT.md
 
-> Last updated: 2026-06-09  
+> Last updated: 2026-06-12  
 > Project: 运筹学期末大作业 / 2026 MCM Problem B：利用太空电梯系统建设月球基地
 
 ## Project Purpose
@@ -64,6 +64,16 @@
 
 2026-06-09 更新：项目已初始化为 git 仓库，并创建 GitHub 公开仓库 `operations-research-final-project`（中文含义：运筹学大作业）。远程地址为 `https://github.com/Hippo1013/operations-research-final-project`。已新增 `.gitignore` 和 `README.md`；公开仓库中保留文档、脚本、结果、报告源码和最终 PDF，排除 `.omx/`、`.DS_Store`、Python 缓存、LaTeX 中间文件以及旧 `phase1_*` 生成物。首次提交为 `d845ae2`。
 
+2026-06-12 更新：已在 `slidev-courseware/` 目录内制作 Slidev 网页汇报课件。课件围绕“问题叙述 → 基础模型建模 → 基础模型求解结果 → 非完美工作情况建模 → 非完美工作情况求解 → 扩展模型建模 → 扩展模型求解 → 结论”展开，重点使用文字、表格、标准数学模型和已有可视化图表表达，不展示大段代码。已新增 `slidev-courseware/style.css` 统一视觉风格，复制报告图表到 `slidev-courseware/public/figures/`，并更新 `slidev-courseware/README.md`。已运行 `npm run build` 验证构建成功；`npm run dev` 可在 `http://localhost:3030/` 查看课件。
+
+2026-06-12 更新：Slidev 课件公式渲染已改为 `slidev-courseware/components/Formula.vue` 组件统一调用 KaTeX，避免 raw HTML 中的 Markdown 数学公式不渲染。第 6 页和第 31 页出现的遮挡“污渍”已修复，原因是 `.pipeline div` 等宽泛 CSS 选择器会影响内部嵌套节点；现已收窄为 `.pipeline > div`、`.pipeline > div > span`、`.pipeline > div > p`。已安装 `playwright-chromium` 作为导出核验依赖，并用 `npx slidev export --format png --range 6,31 --output verify-pages` 导出检查两页，确认遮挡层消失；临时 `verify-pages/` 已删除。`npm run build` 构建成功。
+
+2026-06-12 更新：Slidev 课件除封面页外已整体提高内容密度和字号：非封面页页边距收窄，标题、正文、表格、卡片、流程说明和图表说明字号上调，卡片与图表区域相应放大。第 17 页“结构化降维的小技巧”因图表在字号放大后溢出屏幕，已为 `tradeoff_time_emission.png` 添加 `reduction-chart` 局部样式，限制该页图表宽高并保持完整显示。已用 `npm run build` 构建通过，并导出第 17 页 PNG 检查确认不再溢出；临时导出目录已删除。
+
+2026-06-12 更新：Slidev 课件字体层级已增强。`slidev-courseware/style.css` 新增字体角色变量：正文使用无衬线字体，页面标题/章节标题/卡片标题/结论条使用衬线展示字体，编号、权重、关键数字和指标值使用数字/UI 字体并启用更稳定的数字视觉风格。已导出抽查封面、目录、正文卡片页、模型公式页和第 17 页，确认字体变化更明显且没有新溢出；`npm run build` 构建成功，临时导出目录已删除。
+
+2026-06-13 更新：已将 Slidev HTML 网页课件转换为图片版 PPTX。转换流程为 `npx slidev export --format png` 导出全部 42 页 PNG，再将每张 PNG 作为一页 16:9 全屏图片写入 PowerPoint，以保留字体和排版。输出文件为 `slidev-courseware/面向月球基地建设的材料运输优化方案_图片版.pptx`，大小约 42 MB。已通过 `unzip -t` 检查 PPTX 包结构，确认 42 张幻灯片和 42 张图片均存在；并通过 macOS Quick Look 生成缩略图确认文件可被系统识别。临时导出的 PNG 和缩略图目录已删除。
+
 ## Source Files
 
 主要题目与任务文件：
@@ -116,6 +126,12 @@
 - `report/figures/extended_site_launches.png`：扩展模型最优解发射场分配图。
 - `report/figures/ChatGPT Image 2026年6月9日 16_56_07.png`：用户提供的 1:1 报告配图，已插入 `report/thesis.tex` 的“前言”部分末尾。
 - `report/thesis.tex`：LaTeX 正式报告主文件，当前目录结构已包含“题目、作者和摘要”“前言”“问题描述”“优化方法”“案例分析”“结论”“参考文献”“附录”“分工与贡献”。
+- `slidev-courseware/slides.md`：课堂汇报用 Slidev 网页课件主文件，按问题叙述、三层模型建模与求解、结论组织。
+- `slidev-courseware/components/Formula.vue`：Slidev 课件公式渲染组件，使用 KaTeX 渲染行内和块级数学公式。
+- `slidev-courseware/style.css`：Slidev 课件全局视觉样式，包含封面、章节页、模型框、结果表格、图表页等排版样式。
+- `slidev-courseware/public/figures/`：Slidev 课件所需图表副本，包括报告配图、运输分配图、归一化指标图、非完美变化率图、扩展模型图表等。
+- `slidev-courseware/README.md`：Slidev 课件运行和构建说明；本地运行命令为 `npm run dev`，构建命令为 `npm run build`。
+- `slidev-courseware/面向月球基地建设的材料运输优化方案_图片版.pptx`：由 Slidev 页面逐页导出 PNG 后生成的图片版 PPTX，每页为全屏图片，便于在 PowerPoint 中保持网页字体和排版一致。
 
 ## Current Modeling Decisions
 
